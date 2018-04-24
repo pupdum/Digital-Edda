@@ -1,0 +1,32 @@
+
+KEY:
+\\denotes something I might want to highlight.
+//is a heading or titles type thing
+# is basically a stage direction or something I want to try to make it feel like is happening also good for player choices...
+
+
+//Opening scene:
+
+The last thing you remember is a peaceful stroll through the countryside on a bright, sunny day. You recall hearing the sounds of ducks and meandering towards a nearby pond but
+
+	#darkness, maybe completely blank the terminal here?
+
+You awaken in a dim, candle-lit room, feeling like your head contains a large typhoon. As you come to, you notice that two \\dweeby acolytes\\ are trying to strap you to a table and, perhaps most crucially,
+one of your arms is still free.
+
+###You can: 
+	1) Look around the room
+		## You notice that they are strapping you to a cheap card table and you might as well just wait until they leave to escape. 
+---------------------------------------------------
+	2) Try to communicate with the \\dweeby acolytes\\
+		## They jump a good two feet into the air in surprise and immediately run into the hallway, presumably to inform their boss that the prisoner is awake.
+			1) Look around the room
+				## You notice that they were strapping you to a cheap card table and you could probably just break it if you didn't have a hand loose...
+			2) Unstrap yourself
+				## Carry on!
+---------------------------
+	3) Use your free arm to attempt to escape (Requires 15 \\STRENGTH\\)
+		## You manage to fling the first \\dweeb\\ away from you, sending him sprawling into some small amphitheatre steps. The second, after recovering from her initial confusion, runs out the door, presumably to inform her boss that the prisoner is awake.
+###
+
+

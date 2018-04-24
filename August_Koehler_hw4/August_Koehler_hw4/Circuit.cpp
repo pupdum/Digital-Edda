@@ -67,8 +67,8 @@ double Circuit::shockley_prime(double guess)
 double newt_raph(Circuit& circ, double guess)
 {
 	double temp_var = guess; 
-	for (int i = 0; i < 100; i++) {
-		double foo = temp_var - (circ.shockley(guess) / (circ.shockley_prime(guess)));
+	for (int i = 0; i < 10000; i++) {
+		double foo = (circ.shockley(temp_var) / (circ.shockley_prime(temp_var)));
 		if (foo > 0.0001) {
 			temp_var -= foo; //When change is >0.0001 it will keep going
 		}

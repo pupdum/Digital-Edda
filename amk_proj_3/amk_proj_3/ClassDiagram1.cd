@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Item">
+    <Position X="6.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACCAACgAQAMAQAAEAAAEACDgAAAEAAAAAAA=</HashCode>
+      <FileName>Item.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dice">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAABIAAAEAAIA=</HashCode>
+      <FileName>Dice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAgAAAAAAAAAiAAEAAAAAgAAAAABA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Consumable">
+    <Position X="9" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAARAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAA=</HashCode>
+      <FileName>Consumable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ammo">
+    <Position X="9" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAAAAAAQgAAAAAAgAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ammo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Container">
+    <Position X="10.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAQAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAEAAA=</HashCode>
+      <FileName>Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creature">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAwABAAAwAiEABwAABERQAA0AAFETMBlQCiAAGgAAAI=</HashCode>
+      <FileName>Creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="13" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAABAAAAIEAAAEBAAAACCEiAgAEAAIAAAAAAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAABCAAAAAAAAAAAAAAEEiAAAAgAAQAAAAQAA=</HashCode>
+      <FileName>World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Humanoid">
+    <Position X="3.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAAAAAAAAACIAgEEgIAAIAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Humanoid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="3" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAACACCAAEAgAAQAAAAAAAqAAAiAAAAIQAA=</HashCode>
+      <FileName>Weapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RangedWep">
+    <Position X="6" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAAACAAAAQAAAAAAAiAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>RangedWep.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerChar">
+    <Position X="3.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAQAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerChar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

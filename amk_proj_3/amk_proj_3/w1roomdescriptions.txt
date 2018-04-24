@@ -1,0 +1,46 @@
+WORLD 1 ROOM DESCRIPTIONS
+
+ROOM 1: 
+rN = "Sacrificial Chamber"
+qD = "A dim, candle-lit chamber containing a beat up card table in front of a stone *altar* near the west wall, which are both ringed by some amphitheater-like steps."
+tN = "There are some slightly damp tapestries hanging dangerously close to some burning candles."
+tS = "You see some rather gruesome paintings of a toad, flanked by two mismatched wall *sconces*. "
+tE = "The amphitheater seating rises up on this side of the room except for a ~ 4 ft. wide path to a thick *door* in the center of the wall. You don't think you would be able to open it very easily but it seems to have been propped open by one of the acolytes."
+tW = "The card table is where you last saw it. Just beyond the table lies an *altar* with a neat little alcove behind it. On the *altar*, you can make out some murky shapes with an odd gleam."
+
+
+
+ROOM 2: 
+rN = "The Main Hallway"
+qD = "A long smokey hallway that ends in complete darkness. You notice two *doors* to the north and three to the south."
+tN = "Along this wall, there are some unobtrusive sconces burning way richer fuel than intended. On the Sacrificial Chamber end of the hallway, there is a forboding door labelled 'Rec Room'. Further along, there is a door labelled 'Keepe Outt Acyolites of ThE lOSt ONLY!!'."
+tS = "This wall looks like the north wall except it has three doors. You smell something good emanating from the one closest to the Sacrificial Chamber. The middle door is locked, and the far door appears to be locked and emblazoned with a plaque reading 'Frank's Office		Please use secret knock'."
+tE = "The hallway seems to end in darkness, but you can feel a draft coming from somewhere over there."
+tW = "The door to the Sacrificial Chamber occupies the full width of the hallway on this side."
+
+
+ROOM 3: 
+rN = "Sacrificial Chamber"
+qD
+tN
+tS
+tE
+tW
+
+
+ROOM 4: 
+rN = "Sacrificial Chamber"
+qD
+tN
+tS
+tE
+tW
+
+
+ROOM 5: 
+rN = "Sacrificial Chamber"
+qD
+tN
+tS
+tE
+tW
